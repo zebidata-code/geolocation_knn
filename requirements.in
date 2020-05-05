@@ -1,0 +1,11 @@
+holidays
+jupyter
+matplotlib
+pandas
+pyarrow==0.14
+pypandoc
+pyspark
+seaborn
+sklearn
+tornado
+wheel
